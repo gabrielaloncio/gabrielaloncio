@@ -2,7 +2,7 @@
 
 Hey my name is *gabriel*
 
-- I'm studying at Alura 👀
+- I'm studying at [Alura](https://www.alura.com.br) 👀
 - Estou aprendendo JavaScript 😊
 - Utilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
